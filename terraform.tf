@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is lightweighted tag
 this is lightweighted tag
 this is lightweighted tag
@@ -13,3 +14,7 @@ this is annotated tags
 this is annotated tag
 this is annotated tag
 this is annotated tag
+=======
+push this change to feature branch
+this is changes to feature branch
+>>>>>>> feature-001

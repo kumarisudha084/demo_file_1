@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is lightweighted tag
 this is lightweighted tag
 this is lightweighted tag
@@ -17,3 +18,9 @@ this is annotated tag
 this is annotated tag
 this is annotated tag
 
+=======
+this is cahnged to  feature branch
+this is new script line
+this is simply the text script
+
+>>>>>>> feature-001
